@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163630972896",
+    "project_id": "collect-me-4373c",
+    "storage_bucket": "collect-me-4373c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163630972896:android:e3aabc8000cc3aef09f585",
+        "android_client_info": {
+          "package_name": "com.example.collectme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163630972896-cjjj74i3usgssgg3rkf75uphqel9negk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAueam_WwmYLoMsuYh03AuwaFvI21Cx_-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163630972896-cjjj74i3usgssgg3rkf75uphqel9negk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
